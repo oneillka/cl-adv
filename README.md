@@ -171,7 +171,7 @@ Do you want to change any answer (y/n) ? Default 'no'
 ## Run the sample code
  
 
-# Reference
+# References
 
 [Custom Layers in the Model Optimizer](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Customize_Model_Optimizer.html)
 
