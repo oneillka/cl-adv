@@ -7,11 +7,11 @@
 - Find non-blurry ArgMax image
 - Possible other customizable aspect for the reader?
 
-Also, add the nearly completed sections from David's notes: 
+Also, David will add the nearly completed sections from David's notes: 
 - edit the "front" template files
 - Edit the "ops" template files
 
-Not yet written, but Bavid believes it's relatively easy and straightforward;
+Not yet written, but David believes it's relatively easy and straightforward;
 - Compile a C++
 - Run the sample code
 
