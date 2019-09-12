@@ -1,4 +1,5 @@
-# NOTES FROM OUR ADV CL TUTORIAL SESSION: FRITZ, DAVID, MONIQUE & KAT.
+# Notes from our Adv CL Tutorial Session: 
+09/11/2019 - Fritz, David, Monique & Kat.
 
 ## What needs to happen to this file:
 - Add Downloading and installing OpenVINO
