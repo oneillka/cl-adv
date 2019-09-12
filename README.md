@@ -18,6 +18,8 @@ Not yet written, but Bavid believes it's relatively easy and straightforward;
 Unsure of work involved:
 - Convert and Optimize an Instance Segmentation....
 
+**END SESSION NOTES**
+
 # OpenVINO Advanced Custom Layer Tutorial
 
 This is an advanced tutorial that teaches how to use custom layers in OpenVINO.
