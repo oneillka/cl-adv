@@ -1,3 +1,21 @@
+# NOTES FROM OUR ADV CL TUTORIAL SESSION: FRITZ, DAVID, MONIQUE & KAT.
+
+## What needs to happen to this file:
+- Add Downloading and installing OpenVINO
+- Find a spot for making an update and changing a parameter
+- Find non-blurry ArgMax image
+- Possible other customizable aspect for the reader?
+
+Also, add the nearly completed sections from David's notes: 
+- edit the "front" template files
+- Edit the "ops" template files
+
+Not yet written, but Bavid believes it's relatively easy and straightforward;
+- Compile a C++
+- Run the sample code
+
+Unsure of work involved:
+- Convert and Optimize an Instance Segmentation....
 
 # OpenVINO Advanced Custom Layer Tutorial
 
