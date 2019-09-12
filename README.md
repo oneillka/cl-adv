@@ -24,17 +24,15 @@ Unsure of work involved:
 
 This is an advanced tutorial that teaches how to use custom layers in OpenVINO.
 
-The earlier tutorial demonstrated the process of converting and running customer 
-layers in the OpenVINO Inference Engine, but used a simple hyperbolic cosine function  
-as the custom layer.  The cosh algorithm was chosen for simplicity of conversion, and didn't
-require additional parameters to be provided to the Model Optimizer.
+The earlier tutorial demonstrated the process of converting and running customer layers in the OpenVINO Inference Engine, but used a simple hyperbolic cosine function as the custom layer.  The cosh algorithm was chosen for simplicity of conversion, and didn't require additional parameters to be provided to the Model Optimizer.
 
 This tutorial walks through using a practical real-world example: the argmax function. 
 
 
 ## Directory Layout  
 Model Optimizer Custom Layer Extensions are located in this directory tree:
-  /opt/intel/openvino/deployment_tools/model_optimizer/extensions/
+
+  `/opt/intel/openvino/deployment_tools/model_optimizer/extensions/`
 
 
 There are 2 subdirectories:
