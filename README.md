@@ -1,12 +1,15 @@
 # Notes from our Adv CL Tutorial Session: 
 09/11/2019 - Fritz, David, Monique & Kat.
+09/12/2019 - Updated by Kat, Fritz & David.
 
 ## What needs to happen to this file:
-- Add Downloading and installing OpenVINO:  DONE
-- Add other pertinent Intro level content - refer to previous tutorial:  DONE
+- Add Downloading and installing OpenVINO:  **DONE**
+- Add other pertinent Intro level content - refer to previous tutorial:  **DONE**
 - Find a spot for making an update and changing a parameter
 - Find non-blurry ArgMax image
 - Possible other customizable aspect for the reader?
+- Verified for all 2019 versions of OV?  **No, only R2 on Ubuntu 16.04.  Other testing required for further verification.**
+- If R4 is going to be officially supported with Ubuntu 18.04, we'll need to verify independently?
 
 Also, David will add the nearly completed sections from David's notes: 
 - edit the "front" template files
@@ -47,7 +50,7 @@ Currently, this tutorial and the Model Extension Generator tool support creating
 
 This tutorial assumes that you have already installed the [Intel® Distribution of OpenVINO™ toolkit 2019 R2.0 for Linux*](https://software.intel.com/openvino-toolkit/choose-download/free-download-linux) into the default */opt/intel/openvino* directory.  If you have installed the toolkit to a different directory, you will need to change the directory paths that include "*/opt/intel/openvino*" in the commands below to point to your installation directory. 
 
-The Intel® Distribution of OpenVINO™ toolkit includes the [Model Optimizer](https://docs.openvinotoolkit.org/2019_R2/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html).  This tutorial uses a TensorFlow framework model and assumes that you have already configured the Model Optimizer for use with TensorFlow.  If you did not configure the Model Optimizer for all the frameworks or not for TensorFlow explicitly during installation, be sure to do so following the steps for [Configuring the Model Optimizer](https://docs.openvinotoolkit.org/2019_R2/_docs_MO_DG_prepare_model_Config_Model_Optimizer.html) before proceeding.
+The Intel® Distribution of OpenVINO™ toolkit includes the [Model Optimizer](https://docs.openvinotoolkit.org/2019_R2/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html).  This tutorial uses a TensorFlow framework model and assumes that you have already configured the Model Optimizer for use with TensorFlow.  If you did not, be sure to follow the steps for [Configuring the Model Optimizer](https://docs.openvinotoolkit.org/2019_R2/_docs_MO_DG_prepare_model_Config_Model_Optimizer.html) before proceeding.
 
 After installing the Intel® Distribution of OpenVINO™ toolkit, the *classification_sample_async* executable binary will be located in the directory *~/inference_engine_samples_build/intel64/Release*.  This tutorial will use the *classification_sample_async* executable to run the example model.
 
