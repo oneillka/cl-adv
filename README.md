@@ -1,5 +1,5 @@
 # Notes from our Adv CL Tutorial Session: 
-09/11/2019 - Fritz, David, Monique & Kat.
+09/11/2019 - Fritz, David, Monique & Kat.<br>
 09/12/2019 - Updated by Kat, Fritz & David.
 
 ## What needs to happen to this file:
